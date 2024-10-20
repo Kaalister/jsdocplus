@@ -2,7 +2,9 @@
   "name": "jsdocplus",
   "displayName": "JSDoc+",
   "description": "an extension to improve hover popup about JSDoc",
-  "version": "0.0.1",
+  "publisher": "Kaalister",
+  "icon": "assets/iconVS.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.94.0"
   },
